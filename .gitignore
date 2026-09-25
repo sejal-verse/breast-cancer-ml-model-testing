@@ -1,0 +1,49 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python distribution files
+*.egg-info/
+
+# Environment variables
+.env
+
+# Generated reports
+reports/# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python distribution files
+*.egg-info/
+
+# Environment variables
+.env
+
+# Generated reports
+reports/
