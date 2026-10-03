@@ -41,17 +41,17 @@ def evaluate_model(model, X_test, y_test):
         "Precision": precision_score(
             y_test,
             predictions,
-            pos_label=1
+            pos_label=-1
         ),
         "Recall": recall_score(
             y_test,
             predictions,
-            pos_label=1
+            pos_label=-1
         ),
         "F1 Score": f1_score(
             y_test,
             predictions,
-            pos_label=1
+            pos_label=-1
         )
     }
 
